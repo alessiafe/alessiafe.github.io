@@ -18,7 +18,6 @@ body {
     color: #151515;
     line-height: 1.5;
 
-    /* ===== CHANGED: BACKGROUND ===== */
     background:
         radial-gradient(
             circle at 85% 10%,
